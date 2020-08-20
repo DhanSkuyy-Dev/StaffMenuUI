@@ -1,6 +1,9 @@
 # Commands 
 Use **/staffmenu** or **/sm**
 
+# Permissions
+- **staffmenu.cmd**
+
 # Feature
 * [x] Gamemode
 * [x] Vanish
@@ -16,3 +19,4 @@ Use **/staffmenu** or **/sm**
 # Contact
 - **WhatsApp:** `085648114547`
 - **Email:** `ngetehgaming29@gmail.com`
+
