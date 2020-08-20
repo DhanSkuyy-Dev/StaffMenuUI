@@ -1,0 +1,18 @@
+name: StaffMenuUI_ByDhannSkuyy
+main: DhanSkuyy\Staff\StaffMenu
+api:
+- 3.3.0
+- 3.0.0
+- 4.0.0
+version: 1.0
+author: DhanSkuyy
+
+commands:
+ staffmenu:
+  description: "§oOpen Sfaff Menu By DhanSkuyy"
+  aliases: ["sm"]
+  permissions: staffmenu.cmd
+  
+permissions:
+  staffmenu.cmd:
+   default: op
